@@ -1,0 +1,6 @@
+{
+  "name": "zoom_nomad",
+  "version": "1.0.0",
+  "description": "Zoom clone WebRTC and Websocket", 
+  "license": "MIT"
+}
